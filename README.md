@@ -62,15 +62,15 @@ Here are some project ideas and goals I’m working on or planning:
 
 ## 📫 Contact Me
 
-- 📧 Email: your.email@example.com
-- 🧵 LinkedIn / Twitter / GitHub: `@yourusername`
-- 🌍 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 📧 Email: nerminekirouane@gmail.com
+-  Email: djd75451@gmail.com
 
 ---
 
 ## 💬 A Personal Note
 
 I’m passionate, persistent, and practical. I don’t just code to learn — I build to **solve**, **express**, and **grow**. Whether it’s tweaking a UI or debugging an API, I’m all in. Always learning, always building.
+-i love yall <3
 
 ---
 
