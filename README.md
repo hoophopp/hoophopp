@@ -2,7 +2,7 @@
 
 Hi there! I'm **Nermine**, a backend-focused developer based in Algeria and currently studying Computer Science at **USTHB**. I specialize in **Node.js** and backend development using JavaScript, with a passion for building efficient, scalable, and maintainable systems.  
 
-I also have a solid grounding in front-end technologies and design — I enjoy crafting beautiful UIs (though not into UX flows — I like the pixels, not the psychology!). I believe in clean code, continuous learning, and working on projects that push my limits.
+I also have a solid grounding in front-end technologies and design  I enjoy crafting beautiful UIs (though not into UX flows  I like the pixels, not the psychology!). I believe in clean code, continuous learning, and working on projects that push my limits.
 
 ---
 
@@ -27,23 +27,23 @@ Here’s what I know and use:
 ### 📦 Frontend Knowledge
 - Studied **React.js** thoroughly (but not currently using it in projects)
 - Can build modern UIs with **HTML/CSS** and a touch of **JavaScript magic**
-- Not doing deep UX research — I focus on **interface design**, not user psychology
+- Not doing deep UX research  I focus on **interface design**, not user psychology
 
 ---
 
 ## 🚀 What I'm Focused On
 
 🎯 **Backend Development with JavaScript**  
-I’m currently going deep into Node.js — from core modules to async patterns, middleware, APIs, authentication, and more. I'm building real-world applications to master event-driven architectures and scalable systems.
+I’m currently going deep into Node.js from core modules to async patterns, middleware, APIs, authentication, and more. I'm building real-world applications to master event driven architectures and scalable systems.
 
 🎯 **Real Projects**  
-I prefer working on **practical, real-life projects** over toy examples. I love challenges like:
+I prefer working on **practical, reallife projects** over toy examples. I love challenges like:
 - Collaborative tools
 - Real-time apps
 - RESTful and secure backend APIs
 
 🎯 **Freelancing Prep**  
-My long-term goal is to become a **freelance backend developer** and work on global projects where I can apply all my backend skills with creativity and autonomy.
+My longterm goal is to become a **freelance backend developer** and work on global projects where I can apply all my backend skills with creativity and autonomy.
 
 ---
 
@@ -69,8 +69,9 @@ Here are some project ideas and goals I’m working on or planning:
 
 ## 💬 A Personal Note
 
-I’m passionate, persistent, and practical. I don’t just code to learn — I build to **solve**, **express**, and **grow**. Whether it’s tweaking a UI or debugging an API, I’m all in. Always learning, always building.
--i love yall <3
+I’m passionate, persistent, and practical. I don’t just code to learn  I build to **solve**, **express**, and **grow**. Whether it’s tweaking a UI or debugging an API, I’m all in. Always learning, always building.
+
+- i love yall <3
 
 ---
 
