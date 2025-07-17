@@ -1,79 +1,93 @@
-# 💻 Nermine | Backend JavaScript Developer
+# Nermine | Backend Developer & Ethical Hacking Learner
 
-Hi there! I'm **Nermine**, a backend-focused developer based in Algeria and currently studying Computer Science at **USTHB**. I specialize in **Node.js** and backend development using JavaScript, with a passion for building efficient, scalable, and maintainable systems.  
+Hi! I'm **Nermine**, a backend developer and Computer Science student at **USTHB** (Algeria). My core stack is **JavaScript (Node.js)**, and I’m currently deepening my knowledge of **Linux systems** and **ethical hacking** to better understand the environments I build for.
 
-I also have a solid grounding in front-end technologies and design  I enjoy crafting beautiful UIs (though not into UX flows  I like the pixels, not the psychology!). I believe in clean code, continuous learning, and working on projects that push my limits.
-
----
-
-## 🧠 Tech Stack & Tools
-
-Here’s what I know and use:
-
-### ⚙️ Core Skills
-- **JavaScript (ES6+)**
-- **Node.js** (my main backend playground!)
-- **HTML5 & CSS3**
-- **C Language**
-- **CAML Light** (yes, I’ve played with functional programming)
-- **SQL** (good with relational databases, solid queries & schema design)
-
-### 🛠️ Frameworks & Tools
-- **Express.js**
-- **EJS / Handlebars / Template engines**
-- **MongoDB / PostgreSQL**
-- **VS Code**, Postman, Git, Linux CLI
-
-### 📦 Frontend Knowledge
-- Studied **React.js** thoroughly (but not currently using it in projects)
-- Can build modern UIs with **HTML/CSS** and a touch of **JavaScript magic**
-- Not doing deep UX research  I focus on **interface design**, not user psychology
+I love building reliable, secure systems and learning the internals of how things work — from API calls to system calls.
 
 ---
 
-## 🚀 What I'm Focused On
+## 🛠️ Technical Stack
 
-🎯 **Backend Development with JavaScript**  
-I’m currently going deep into Node.js from core modules to async patterns, middleware, APIs, authentication, and more. I'm building real-world applications to master event driven architectures and scalable systems.
+### • Languages & Fundamentals
+- **JavaScript (ES6+)**  full-stack proficiency
+- **C**  solid low-level foundation
+- **SQL**  schema design, data modeling, efficient querying
+- **CAML Light**  for functional programming concepts
 
-🎯 **Real Projects**  
-I prefer working on **practical, reallife projects** over toy examples. I love challenges like:
-- Collaborative tools
-- Real-time apps
-- RESTful and secure backend APIs
+### • Backend & Frameworks
+- **Node.js**  
+- **Express.js**  
+- **Prisma** - modern ORM with PostgreSQL & MySQL  
+- **MongoDB / PostgreSQL**  
+- **Template Engines**  EJS, Handlebars
 
-🎯 **Freelancing Prep**  
-My longterm goal is to become a **freelance backend developer** and work on global projects where I can apply all my backend skills with creativity and autonomy.
+### • Dev Tools
+- Git & GitHub  
+- Postman  
+- Linux CLI & shell scripting  
+- VS Code  
+- Basic Docker understanding
 
----
-
-## 📂 Projects
-
-Here are some project ideas and goals I’m working on or planning:
-
-- 🧑‍💻 **Real-time collaboration whiteboard** (WebSockets, events, persistent sessions)
-- 🧾 **Custom CMS with Node.js**
-- 🔐 **Auth & permissions system from scratch**
-- 📈 **Performance-focused API backends**
-
-> Want to collaborate or have a freelance project in mind? Let’s connect!
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: nerminekirouane@gmail.com
--  Email: djd75451@gmail.com
+### • Frontend Knowledge
+- **HTML / CSS / JavaScript**  interface building
+- **React.js**  familiar with component-driven development
 
 ---
 
-## 💬 A Personal Note
+## 📚 Currently Learning
 
-I’m passionate, persistent, and practical. I don’t just code to learn  I build to **solve**, **express**, and **grow**. Whether it’s tweaking a UI or debugging an API, I’m all in. Always learning, always building.
+> My current focus is mastering Linux and security fundamentals to support backend excellence.
 
-- i love yall <3
+### → **Linux Essentials**
+- Filesystems, permissions, shell navigation
+- Scripting, process management, environment config
+
+### → **Security & Ethical Hacking**
+- Exploring CTFs and Wargames (e.g. OverTheWire’s *Bandit*)
+- Studying common exploits and hardening practices
+- Learning about authentication, hashing, and access control
 
 ---
+
+## 🧠 Learning Philosophy
+
+I learn by doing  not just following tutorials. Whether I’m writing a backend service or exploring privilege escalation in a lab, I seek to **understand deeply** and **document clearly**. My journey blends **software engineering**, **systems**, and **security** into a strong, practical skill set.
+
+---
+
+## 🚀 Goals
+
+- Become Linux-proficient and security-conscious as a developer
+- Build and contribute to secure, scalable Node.js systems
+- Tackle CTF challenges and share learning in a clean, spoiler-free way
+- Freelance with confidence and technical depth
+
+---
+
+## 💡 Projects in Progress
+
+- Secure CMS with Node.js + Prisma + PostgreSQL  
+- Command-line tools using bash and Node  
+- CTF writeups (private/spoiler-free) and system exploration logs  
+- Auth systems built from scratch with token/role logic
+
+---
+
+## 📫 Contact
+
+Let’s connect — I’m open to collaboration, freelance work, or learning together:
+
+- **Email**: kirouanennermine@gmail.com  
+- **Alt**: djd75451@gmail.com  
+
+---
+
+## ✨ Final Note
+
+I'm here to build  not just code. Whether it's designing a clean API or exploring a Linux file permission bug, I enjoy the *how* just as much as the *what*. This journey is about depth, growth, and becoming the kind of developer who can build and break things responsibly.
+
+---
+
 
 
 
