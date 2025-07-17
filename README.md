@@ -6,7 +6,7 @@ I love building reliable, secure systems and learning the internals of how thing
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 ### • Languages & Fundamentals
 - **JavaScript (ES6+)**  full-stack proficiency
@@ -34,7 +34,7 @@ I love building reliable, secure systems and learning the internals of how thing
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 > My current focus is mastering Linux and security fundamentals to support backend excellence.
 
@@ -49,13 +49,13 @@ I love building reliable, secure systems and learning the internals of how thing
 
 ---
 
-## 🧠 Learning Philosophy
+##  Learning Philosophy
 
 I learn by doing  not just following tutorials. Whether I’m writing a backend service or exploring privilege escalation in a lab, I seek to **understand deeply** and **document clearly**. My journey blends **software engineering**, **systems**, and **security** into a strong, practical skill set.
 
 ---
 
-## 🚀 Goals
+##  Goals
 
 - Become Linux-proficient and security-conscious as a developer
 - Build and contribute to secure, scalable Node.js systems
@@ -64,7 +64,7 @@ I learn by doing  not just following tutorials. Whether I’m writing a backend 
 
 ---
 
-## 💡 Projects in Progress
+##  Projects in Progress
 
 - Secure CMS with Node.js + Prisma + PostgreSQL  
 - Command-line tools using bash and Node  
