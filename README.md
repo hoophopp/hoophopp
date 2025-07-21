@@ -1,77 +1,94 @@
-# Hi, I'm Nermine Kirouane 👋
+<!-- PROFILE HEADER -->
+<h1 align="center" style="font-size: 3em;">⚡ Nermine Kirouane ⚡</h1>
+<h3 align="center" style="color: #6e6e6e;">
+  💻 Backend Developer | Node.js • Databases • Linux Learner • Ethical Hacker 🛡️
+</h3>
 
-### Backend Developer | Node.js & Databases | Linux & Security Enthusiast
+<br />
 
+<!-- TECH STACK ICONS -->
 <p align="center">
+  <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  
+  <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  
+  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+
+  <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+
+  <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+
+  <!-- Prisma -->
   <img src="https://raw.githubusercontent.com/prisma/prisma/main/docs/static/img/logo.svg" height="40" alt="Prisma" />
+
+  <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+
+  <!-- pgAdmin (using alt icon) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Pgadmin_logo.png" height="40" alt="pgAdmin" />
+
+  <!-- C Language -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+
+  <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+
+  <!-- Bash / CLI / .env -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+
+  <!-- Cybersecurity / CTF -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Nuvola_apps_ksirtet.png" height="40" alt="CTF" />
+
 </p>
 
----
+<br />
 
-## 👩‍💻 About Me
-
-I'm a backend developer passionate about building secure and reliable systems. Currently studying at **USTHB** (Algeria) while diving deep into **Linux administration** and **ethical hacking**. I believe in hands-on learning and understanding systems at their core.
-
----
-
-## 🔭 Current Focus
-
-- **Backend Development**: Node.js, Prisma, PostgreSQL
-- **Linux**: Filesystems, permissions, shell scripting
-- **Security**: CTFs (Bandit), privilege escalation, secure coding
-- **DevOps**: Learning CI/CD pipelines and containerization
-
----
-
-## 🚀 Projects
-
-### 🔒 Secure Freelance Platform
-Node.js backend with Prisma ORM and PostgreSQL, featuring:
-- Role-based authentication (JWT + bcrypt)
-- Secure payment escrow system
-- Automated contract enforcement
-
-### 🐧 Linux Toolbox
-Collection of bash scripts for:
-- System monitoring
-- Automated backups
-- Security hardening
-
-### 🔑 Auth Microservice
-Custom authentication system with:
-- Multi-factor authentication options
-- Rate limiting
-- Secure session management
-
----
-
-## 📚 Learning Resources
-
-Currently working through:
-- OverTheWire Bandit (Linux security)
-- Prisma documentation
-- Node.js Design Patterns
-
----
-
-## 📫 Get in Touch
-
-- Email: [kirouanennermine@gmail.com](mailto:kirouanennermine@gmail.com)
-- GitHub: [github.com/hoophopp](https://github.com/hoophopp)
-
----
+<!-- ABOUT ME -->
+<h2 align="center">📌 Who Am I?</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hoophopp&label=Profile%20views&color=0e75b6&style=flat" alt="hoophopp" />
+  I'm <strong>Nermine</strong> – an 18-year-old backend warrior building real-world apps with <code>Node.js</code>, <code>PostgreSQL</code>, and <code>Prisma</code>.  
+  I'm currently learning Linux, hacking systems (ethically 😉), and working my way to full-stack mastery.  
+  I don’t just watch tutorials. I BUILD. I TEST. I BREAK SYSTEMS and LEARN.
+</p>
+
+<br />
+
+<!-- CURRENT FOCUS -->
+<h2 align="center">🧠 What I'm Learning</h2>
+
+<ul align="center">
+  <li>Linux fundamentals (shell, permissions, navigation)</li>
+  <li>Security concepts: Bandit wargames, privilege escalation</li>
+  <li>ORM mastery with Prisma + PostgreSQL</li>
+  <li>Writing scalable backend APIs (RBAC, JWT, bcrypt)</li>
+</ul>
+
+<br />
+
+<!-- PROJECTS -->
+<h2 align="center">🚧 Ongoing Projects</h2>
+
+<ul align="center">
+  <li>👨‍💻 Freelance Platform (secure, role-based, clean backend)</li>
+  <li>🔐 Authentication system with custom RBAC, hashed passwords</li>
+  <li>⚙️ Linux tools, CLI utilities, automation scripts</li>
+</ul>
+
+<br />
+
+<!-- CONTACT -->
+<h2 align="center">📬 Contact Me</h2>
+
+<p align="center">
+  💌 <strong>Email:</strong> kirouanennermine@gmail.com  
+  <br />
+  🌐 <strong>GitHub:</strong> <a href="https://github.com/hoophopp" target="_blank">github.com/hoophopp</a>
 </p>
 
 <!---
