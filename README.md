@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center" style="font-size: 3em;"> Nermine Kirouane </h1>
+<h1 align="center" style="font-size: 3em;"> Nermine Kirouane? </h1>
 <h3 align="center" style="color: #6e6e6e;">
   💻 Backend Developer | Node.js • Databases • Linux Learner • Ethical Hacker 🛡️
 </h3>
@@ -74,9 +74,9 @@
 <h2 align="center">📬 Contact Me</h2>
 
 <p align="center">
-  >💌 <strong>Email:</strong> kirouanennermine@gmail.com  
+  > 💌 <strong>Email:</strong> kirouanennermine@gmail.com  
   <br />
-  >🌐 <strong>GitHub:</strong> <a href="https://github.com/hoophopp" target="_blank">github.com/hoophopp</a>
+  > 🌐 <strong>GitHub:</strong> <a href="https://github.com/hoophopp" target="_blank">github.com/hoophopp</a>
 </p>
 
 <!---
