@@ -1,92 +1,78 @@
-# Nermine | Backend Developer & Ethical Hacking Learner
+<!-- PROFILE HEADER -->
+<h1 align="center">Nermine Kirouane</h1>
+<h3 align="center">Backend Developer | Node.js & Databases | Learning Linux & Security</h3>
 
-Hi! I'm **Nermine**, a backend developer and Computer Science student at **USTHB** (Algeria). My core stack is **JavaScript (Node.js)**, and I’m currently deepening my knowledge of **Linux systems** and **ethical hacking** to better understand the environments I build for.
+<br />
 
-I love building reliable, secure systems and learning the internals of how things work — from API calls to system calls.
+<!-- TECH STACK SECTION -->
+<h2 align="center">💻 Tech Stack</h2>
 
----
+<p align="center">
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 
-##  Technical Stack
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 
-### • Languages & Fundamentals
-- **JavaScript (ES6+)**  full-stack proficiency
-- **C**  solid low-level foundation
-- **SQL**  schema design, data modeling, efficient querying
-- **CAML Light**  for functional programming concepts
+  <!-- Prisma -->
+  <img src="https://raw.githubusercontent.com/prisma/prisma/master/docs/static/images/logo.svg" height="40" alt="Prisma" />
 
-### • Backend & Frameworks
-- **Node.js**  
-- **Express.js**  
-- **Prisma** - modern ORM with PostgreSQL & MySQL  
-- **MongoDB / PostgreSQL**  
-- **Template Engines**  EJS, Handlebars
+  <!-- pgAdmin4 -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Pgadmin_logo.png" height="40" alt="pgAdmin4" />
 
-### • Dev Tools
-- Git & GitHub  
-- Postman  
-- Linux CLI & shell scripting  
-- VS Code  
-- Basic Docker understanding
+  <!-- .env (represented by Bash) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt=".env" />
+</p>
 
-### • Frontend Knowledge
-- **HTML / CSS / JavaScript**  interface building
-- **React.js**  familiar with component-driven development
+<br />
 
----
+<!-- ABOUT ME -->
+<h2 align="center">📌 About Me</h2>
 
-##  Currently Learning
+<p align="center" style="max-width: 700px; margin: auto;">
+  I'm a backend developer focused on building secure and reliable systems using Node.js, PostgreSQL, and Prisma.  
+  Currently studying at <strong>USTHB</strong> (Algeria) and diving deep into <strong>Linux</strong> and <strong>ethical hacking</strong>.  
+  I believe in learning by doing  not just copying tutorials.
+</p>
 
-> My current focus is mastering Linux and security fundamentals to support backend excellence.
+<br />
 
-### → **Linux Essentials**
-- Filesystems, permissions, shell navigation
-- Scripting, process management, environment config
+<!-- CURRENT FOCUS -->
+<h2 align="center">🧪 Currently Learning</h2>
 
-### → **Security & Ethical Hacking**
-- Exploring CTFs and Wargames (e.g. OverTheWire’s *Bandit*)
-- Studying common exploits and hardening practices
-- Learning about authentication, hashing, and access control
+<ul align="center">
+  <li>Linux fundamentals: filesystems, permissions, scripting</li>
+  <li>Security basics: CTFs (Bandit), privilege escalation, safe shell use</li>
+  <li>Prisma ORM with PostgreSQL</li>
+</ul>
 
----
+<br />
 
-##  Learning Philosophy
+<!-- PROJECTS -->
+<h2 align="center">🛠️ Projects in Progress</h2>
 
-I learn by doing  not just following tutorials. Whether I’m writing a backend service or exploring privilege escalation in a lab, I seek to **understand deeply** and **document clearly**. My journey blends **software engineering**, **systems**, and **security** into a strong, practical skill set.
+<ul align="center">
+  <li>Secure freelance platform (Node.js + Prisma + PostgreSQL)</li>
+  <li>Linux command-line tools & automations</li>
+  <li>Custom authentication system (RBAC, JWT, bcrypt)</li>
+</ul>
 
----
+<br />
 
-##  Goals
+<!-- CONTACT -->
+<h2 align="center">📫 Contact</h2>
 
-- Become Linux-proficient and security-conscious as a developer
-- Build and contribute to secure, scalable Node.js systems
-- Tackle CTF challenges and share learning in a clean, spoiler-free way
-- Freelance with confidence and technical depth
-
----
-
-##  Projects in Progress
-
-- Secure CMS with Node.js + Prisma + PostgreSQL  
-- Command-line tools using bash and Node  
-- CTF writeups (private/spoiler-free) and system exploration logs  
-- Auth systems built from scratch with token/role logic
-
----
-
-## 📫 Contact
-
-Let’s connect — I’m open to collaboration, freelance work, or learning together:
-
-- **Email**: kirouanennermine@gmail.com  
-- **Alt**: djd75451@gmail.com  
-
----
-
-## ✨ Final Note
-
-I'm here to build  not just code. Whether it's designing a clean API or exploring a Linux file permission bug, I enjoy the *how* just as much as the *what*. This journey is about depth, growth, and becoming the kind of developer who can build and break things responsibly.
-
----
+<p align="center">
+  <strong>Email:</strong> kirouanennermine@gmail.com  
+  <br />
+  <strong>GitHub:</strong> <a href="https://github.com/hoophopp">github.com/hoophopp</a>
+</p>
 
 
 
