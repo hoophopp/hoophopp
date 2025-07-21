@@ -1,90 +1,78 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Nermine Kirouane</h1>
-<h3 align="center">Backend Developer | Node.js & Databases | Learning Linux & Security</h3>
+# Hi, I'm Nermine Kirouane 👋
 
-<br />
-
+### Backend Developer | Node.js & Databases | Linux & Security Enthusiast
 
 <p align="center">
-  <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  
-  <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  
-  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-
-  <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-
-  <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-
-  <!-- Prisma (works now) -->
   <img src="https://raw.githubusercontent.com/prisma/prisma/main/docs/static/img/logo.svg" height="40" alt="Prisma" />
-
-  <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-
-  <!-- C Language -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-
-  <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-
-  <!-- Bash (for .env and CLI scripting) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash / .env" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
 </p>
 
+---
 
-<br />
+## 👩‍💻 About Me
 
-<!-- ABOUT ME -->
-<h2 align="center">📌 About Me</h2>
+I'm a backend developer passionate about building secure and reliable systems. Currently studying at **USTHB** (Algeria) while diving deep into **Linux administration** and **ethical hacking**. I believe in hands-on learning and understanding systems at their core.
 
-<p align="center" style="max-width: 700px; margin: auto;">
-  I'm a backend developer focused on building secure and reliable systems using Node.js, PostgreSQL, and Prisma.  
-  Currently studying at <strong>USTHB</strong> (Algeria) and diving deep into <strong>Linux</strong> and <strong>ethical hacking</strong>.  
-  I believe in learning by doing  not just copying tutorials.
-</p>
+---
 
-<br />
+## 🔭 Current Focus
 
-<!-- CURRENT FOCUS -->
-<h2 align="center">🧪 Currently Learning</h2>
+- **Backend Development**: Node.js, Prisma, PostgreSQL
+- **Linux**: Filesystems, permissions, shell scripting
+- **Security**: CTFs (Bandit), privilege escalation, secure coding
+- **DevOps**: Learning CI/CD pipelines and containerization
 
-<ul align="center">
-  <li>Linux fundamentals: filesystems, permissions, scripting</li>
-  <li>Security basics: CTFs (Bandit), privilege escalation, safe shell use</li>
-  <li>Prisma ORM with PostgreSQL</li>
-</ul>
+---
 
-<br />
+## 🚀 Projects
 
-<!-- PROJECTS -->
-<h2 align="center">🛠️ Projects in Progress</h2>
+### 🔒 Secure Freelance Platform
+Node.js backend with Prisma ORM and PostgreSQL, featuring:
+- Role-based authentication (JWT + bcrypt)
+- Secure payment escrow system
+- Automated contract enforcement
 
-<ul align="center">
-  <li>Secure freelance platform (Node.js + Prisma + PostgreSQL)</li>
-  <li>Linux command-line tools & automations</li>
-  <li>Custom authentication system (RBAC, JWT, bcrypt)</li>
-</ul>
+### 🐧 Linux Toolbox
+Collection of bash scripts for:
+- System monitoring
+- Automated backups
+- Security hardening
 
-<br />
+### 🔑 Auth Microservice
+Custom authentication system with:
+- Multi-factor authentication options
+- Rate limiting
+- Secure session management
 
-<!-- CONTACT -->
-<h2 align="center">📫 Contact</h2>
+---
+
+## 📚 Learning Resources
+
+Currently working through:
+- OverTheWire Bandit (Linux security)
+- Prisma documentation
+- Node.js Design Patterns
+
+---
+
+## 📫 Get in Touch
+
+- Email: [kirouanennermine@gmail.com](mailto:kirouanennermine@gmail.com)
+- GitHub: [github.com/hoophopp](https://github.com/hoophopp)
+
+---
 
 <p align="center">
-  <strong>Email:</strong> kirouanennermine@gmail.com  
-  <br />
-  <strong>GitHub:</strong> <a href="https://github.com/hoophopp">github.com/hoophopp</a>
+  <img src="https://komarev.com/ghpvc/?username=hoophopp&label=Profile%20views&color=0e75b6&style=flat" alt="hoophopp" />
 </p>
-
-
-
 
 <!---
 hoophopp/hoophopp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
