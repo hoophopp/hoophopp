@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center" style="font-size: 3em;">⚡ Nermine Kirouane ⚡</h1>
+<h1 align="center" style="font-size: 3em;"> Nermine Kirouane </h1>
 <h3 align="center" style="color: #6e6e6e;">
   💻 Backend Developer | Node.js • Databases • Linux Learner • Ethical Hacker 🛡️
 </h3>
@@ -52,7 +52,7 @@
 <h2 align="center">📌 Who Am I?</h2>
 
 <p align="center">
-  I'm <strong>Nermine</strong> – an 18-year-old backend warrior building real-world apps with <code>Node.js</code>, <code>PostgreSQL</code>, and <code>Prisma</code>.  
+  I'm <strong>Nermine</strong>  an 18-year-old backend warrior building real-world apps with <code>Node.js</code>, <code>PostgreSQL</code>, and <code>Prisma</code>.  
   I'm currently learning Linux, hacking systems (ethically 😉), and working my way to full-stack mastery.  
   I don’t just watch tutorials. I BUILD. I TEST. I BREAK SYSTEMS and LEARN.
 </p>
@@ -69,26 +69,14 @@
   <li>Writing scalable backend APIs (RBAC, JWT, bcrypt)</li>
 </ul>
 
-<br />
-
-<!-- PROJECTS -->
-<h2 align="center">🚧 Ongoing Projects</h2>
-
-<ul align="center">
-  <li>👨‍💻 Freelance Platform (secure, role-based, clean backend)</li>
-  <li>🔐 Authentication system with custom RBAC, hashed passwords</li>
-  <li>⚙️ Linux tools, CLI utilities, automation scripts</li>
-</ul>
-
-<br />
 
 <!-- CONTACT -->
 <h2 align="center">📬 Contact Me</h2>
 
 <p align="center">
-  💌 <strong>Email:</strong> kirouanennermine@gmail.com  
+  >💌 <strong>Email:</strong> kirouanennermine@gmail.com  
   <br />
-  🌐 <strong>GitHub:</strong> <a href="https://github.com/hoophopp" target="_blank">github.com/hoophopp</a>
+  >🌐 <strong>GitHub:</strong> <a href="https://github.com/hoophopp" target="_blank">github.com/hoophopp</a>
 </p>
 
 <!---
