@@ -27,9 +27,6 @@
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
 
-  <!-- pgAdmin (fallback image) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pgadmin_logo.png/800px-Pgadmin_logo.png" height="40" alt="pgAdmin4" />
-
   <!-- C Language -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
 
@@ -39,11 +36,6 @@
   <!-- Bash (for .env and CLI scripting) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash / .env" />
 
-  <!-- CAML Light (no official icon, using OCaml) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/OCaml_logo.svg" height="40" alt="CAML Light / OCaml" />
-
-  <!-- CTF / Security (custom image placeholder) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/CTF.svg/2048px-CTF.svg.png" height="40" alt="CTF" />
 </p>
 
 
