@@ -4,8 +4,6 @@
 
 <br />
 
-<!-- TECH STACK SECTION -->
-<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
   <!-- HTML -->
@@ -20,15 +18,34 @@
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 
-  <!-- Prisma -->
-  <img src="https://raw.githubusercontent.com/prisma/prisma/master/docs/static/images/logo.svg" height="40" alt="Prisma" />
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 
-  <!-- pgAdmin4 -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Pgadmin_logo.png" height="40" alt="pgAdmin4" />
+  <!-- Prisma (works now) -->
+  <img src="https://raw.githubusercontent.com/prisma/prisma/main/docs/static/img/logo.svg" height="40" alt="Prisma" />
 
-  <!-- .env (represented by Bash) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt=".env" />
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+
+  <!-- pgAdmin (fallback image) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pgadmin_logo.png/800px-Pgadmin_logo.png" height="40" alt="pgAdmin4" />
+
+  <!-- C Language -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+
+  <!-- Bash (for .env and CLI scripting) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash / .env" />
+
+  <!-- CAML Light (no official icon, using OCaml) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/OCaml_logo.svg" height="40" alt="CAML Light / OCaml" />
+
+  <!-- CTF / Security (custom image placeholder) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/CTF.svg/2048px-CTF.svg.png" height="40" alt="CTF" />
 </p>
+
 
 <br />
 
