@@ -61,6 +61,10 @@
   <li>Writing scalable backend APIs (RBAC, JWT, bcrypt)</li>
 </ul>
 
+<p align="center">
+  <img src="my-screenshot.png" width="400">
+</p>
+
 
 <!-- CONTACT -->
 <h2 align="center">📬 Contact Me</h2>
